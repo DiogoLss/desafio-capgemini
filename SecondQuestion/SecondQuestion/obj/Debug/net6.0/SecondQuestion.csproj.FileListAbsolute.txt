@@ -1,0 +1,15 @@
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\bin\Debug\net6.0\SecondQuestion.exe
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\bin\Debug\net6.0\SecondQuestion.deps.json
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\bin\Debug\net6.0\SecondQuestion.runtimeconfig.json
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\bin\Debug\net6.0\SecondQuestion.dll
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\bin\Debug\net6.0\ref\SecondQuestion.dll
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\bin\Debug\net6.0\SecondQuestion.pdb
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.dll
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\ref\SecondQuestion.dll
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.pdb
+C:\Users\JONATHAN\source\repos\SecondQuestion\SecondQuestion\obj\Debug\net6.0\SecondQuestion.genruntimeconfig.cache

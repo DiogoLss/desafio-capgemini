@@ -1,0 +1,15 @@
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.exe
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.deps.json
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.runtimeconfig.json
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.dll
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\bin\Debug\net6.0\ref\ThirdQuestion.dll
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\bin\Debug\net6.0\ThirdQuestion.pdb
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.dll
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ref\ThirdQuestion.dll
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.pdb
+C:\Users\JONATHAN\source\repos\ThirdQuestion\ThirdQuestion\obj\Debug\net6.0\ThirdQuestion.genruntimeconfig.cache
